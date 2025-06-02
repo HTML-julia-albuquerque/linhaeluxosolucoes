@@ -32,33 +32,3 @@ class SistemaClientes:
 
     def cliente_atual(self) -> str | None:
         return self._pilha_sessoes[-1] if self._pilha_sessoes else None
-
-clientes = {}
-
-while True:
-    print("1 - Cadastrar cliente")
-    print("2 - Mostrar dados do cliente")
-    print("3 - Sair")
-    opcao = input("Escolha uma opção: ")
-
-    if opcao == "1":
-        email = input("Email: ")
-        nome = input("Nome: ")
-        endereco = input("Endereco: ")
-        clientes[email] = {"nome": nome, "endereco": endereco}
-        print("Cliente cadastrado com sucesso\n")
-
-    elif opcao == "2":
-        email = input("Digite o email do cliente: ")
-        if email in clientes:
-            dados = clientes[email]
-            print(f"Nome: {dados['nome']}")
-            print(f"Endereco: {dados['endereco']}\n")
-        else:
-            print("Cliente nao encontrado\n")
-
-    elif opcao == "3":
-        break
-
-    else:
-        print("Opcao invalida\n")
