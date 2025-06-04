@@ -1,3 +1,4 @@
+#4 concluído
 class PaymentMethods:
     """
     Classe para gerenciar formas de pagamento usando fila (deque).
