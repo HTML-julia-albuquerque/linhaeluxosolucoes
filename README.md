@@ -1,3 +1,3 @@
 ### L&L Soluções
 Projeto de empresa de Roupas e Vestimentas com investimentos e aplicações em tecnologia que simula, através do python a pura experiência
-de navegar por uma loja de roupa online.
+de navegar por uma loja de roupa online. O sistema é dividido em: Usuários, Inventário, Carinho e Pagamento. A sessão de usuários funciona através de pilha(Ao logar e deslogar usuários) e Matriz(Ao  mostrar esses dados). A sessão de invetário funciona através de diconário(Nome e preço do produto). A sessão de carinho funciona através de vetor. A sessão de pagamento funciona através de fila. Logo, o sistema é responsável por organizar e expor esses dados ao usuário. 
