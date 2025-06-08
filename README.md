@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/image.png" alt="Logo da Empresa" width="200" />
+  <img src="https://raw.githubusercontent.com/HTML-julia-albuquerque/linhaeluxosolucoes/main/image.png" alt="Logo da Empresa" width="200"/>
 </p>
+
 
 # 🛍️ Sistema E-Commerce de Linha e Luxo Soluções
 
