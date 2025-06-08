@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Logo da Empresa" width="200" />
+  <img src="./assets/image.png" alt="Logo da Empresa" width="200" />
 </p>
 
 # 🛍️ Sistema E-Commerce de Linha e Luxo Soluções
