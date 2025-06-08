@@ -2,7 +2,7 @@
   <img src="./assets/logo.png" alt="Logo da Empresa" width="200" />
 </p>
 
-# 🛍️ Sistema E-Commerce de Roupas & Soluções
+# 🛍️ Sistema E-Commerce de Linha e Luxo Soluções
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3.11-blue.svg" alt="Python 3.11" />
